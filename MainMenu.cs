@@ -29,12 +29,12 @@ namespace PROG7312_POE
 
         private void LocalButton_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("This feature has not been implemented yet!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void ServiceButton_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("This feature has not been implemented yet!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
     }
 }

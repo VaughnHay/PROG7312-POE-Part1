@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|c:\\users\\vaugh\\source\\repos\\prog7312 poe\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|c:\\users\\vaugh\\source\\repos\\prog7312 poe\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportedissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,37 +50,35 @@
               "RelativeToolTip": "ReportedIssues.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:57:28.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T13:57:28.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReportIssuesForm.cs",
               "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
               "RelativeDocumentMoniker": "ReportIssuesForm.cs",
               "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
               "RelativeToolTip": "ReportIssuesForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAA3wEgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T13:43:33.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReportIssuesForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
               "RelativeDocumentMoniker": "ReportIssuesForm.cs",
               "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs [Design]",
               "RelativeToolTip": "ReportIssuesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:41:42.033Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-10T13:41:42.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
@@ -92,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
               "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
               "RelativeToolTip": "MainMenu.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T15:32:51.357Z",
               "EditorCaption": ""
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T06:57:16.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T06:57:16.225Z"
             }
           ]
         }
