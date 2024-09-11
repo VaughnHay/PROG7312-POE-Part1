@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|c:\\users\\vaugh\\source\\repos\\prog7312 poe\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\reportedissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:reportedissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1F3EB-1A95-4017-8C74-9553F4B9027C}|PROG7312 POE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportedIssues.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportedIssues.cs",
+              "RelativeDocumentMoniker": "ReportedIssues.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportedIssues.cs",
+              "RelativeToolTip": "ReportedIssues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportIssuesForm.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
+              "RelativeToolTip": "ReportIssuesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:43:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportIssuesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\ReportIssuesForm.cs [Design]",
+              "RelativeToolTip": "ReportIssuesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:41:42.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs [Design]",
+              "RelativeToolTip": "MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:32:13.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:32:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repos\\PROG7312 POE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:57:16.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

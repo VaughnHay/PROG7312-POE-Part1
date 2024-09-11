@@ -1,0 +1,11 @@
+C:\Users\vaugh\source\repos\PROG7312 POE\bin\Debug\PROG7312 POE.exe
+C:\Users\vaugh\source\repos\PROG7312 POE\bin\Debug\PROG7312 POE.exe.config
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312 POE.csproj.AssemblyReference.cache
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312_POE.MainMenu.resources
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312_POE.Properties.Resources.resources
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312_POE.ReportIssuesForm.resources
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312 POE.csproj.GenerateResource.cache
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312 POE.csproj.CoreCompileInputs.cache
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312 POE.exe
+C:\Users\vaugh\source\repos\PROG7312 POE\obj\Debug\PROG7312 POE.pdb
+C:\Users\vaugh\source\repos\PROG7312 POE\bin\Debug\PROG7312 POE.pdb
